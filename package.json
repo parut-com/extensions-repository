@@ -1,0 +1,24 @@
+{
+  "name": "extensions-repository",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is the official and default repository for Parut extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parut-com/extensions-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parut-com/extensions-repository/issues"
+  },
+  "homepage": "https://github.com/parut-com/extensions-repository#readme",
+  "dependencies": {
+    "yaml": "^2.2.1"
+  }
+}
