@@ -28,7 +28,7 @@ jobs:
         cp extensions.yml dist/extensions.yml
         cp extensions.json dist/extensions.json
 
-    - name: Deploy 🚀
+    - name: Deploy
       uses: JamesIves/github-pages-deploy-action@4.4.1
       with:
         branch: gh-pages
