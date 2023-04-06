@@ -13,9 +13,7 @@ This is the official and default repository for Parut extensions.
 | author.name           | string  | required | Name of the extension owner              |
 | author.email          | string  | required | Email to get infor and support           |
 | author.website        | string  | required | Website to get info and support          |
-| metadata              | object  | required | Where can the extension be downloaded    |
-| repository.metadata   | string  | required | A url to grab metadata for the extension |
-| repository.runtime    | string  | required | A url for the extension runtime          |
+| metadata              | string  | required | A url to grab metadata for the extension |
 
 ## Adding Extensions
 
